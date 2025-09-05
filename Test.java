@@ -8,4 +8,5 @@ package com.glazero.android;
  */
 class Test {
     private int test = 0;
+        private int test1 = 0;
 }
